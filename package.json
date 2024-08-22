@@ -1,0 +1,21 @@
+{
+  "name": "22_7_0_node_cypress",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cypress/code-coverage": "^3.12.45",
+    "@vitejs/plugin-react": "^4.3.1",
+    "cypress": "13.13.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.2"
+  }
+}
